@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.3.1",
-      "/Users/zsh/r/one-page"
+      "/Users/zsh/r/web/one-page"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.3.1",
@@ -28,7 +28,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.3.1.tgz",
   "_spec": "5.3.1",
-  "_where": "/Users/zsh/r/one-page",
+  "_where": "/Users/zsh/r/web/one-page",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
